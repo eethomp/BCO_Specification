@@ -11,6 +11,7 @@ Depending on the license, certain licenses restrict the end user from modifying,
 The `additional_license` extension is defined as an array of licenses applied to the data and the script. 
 
 `data_license` is a string containing the URL of the license applied to the data. 
+
 `scripts_license` is a string containing the URL of the license applied to the scripts.
 
 Licenses of [Creative Commons](https://creativecommons.org/) can be applied to the data and licenses from the [GNU](https://www.gnu.org/licenses/licenses.html) can be applied to the scripts, software or source codes. Additional information about the license can be added to the usability domain. 
