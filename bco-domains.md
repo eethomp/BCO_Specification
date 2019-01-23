@@ -72,6 +72,7 @@ Definitions:
 
 * [fhir extension](extension-fhir.md)
 * [scm extension](extension-scm.md)
+* [additional_license](extension-additional_license.md)
 
 
 ## 2.4 Description Domain "description_domain"
