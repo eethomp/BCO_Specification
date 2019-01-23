@@ -4,9 +4,9 @@ _Back to [BCO domains](bco-domains.md)_
 
 ### 2.3.3 Extension to External References: License for data and script
     
-The external references **example** extension to additional license provide a mechanism for adherence to licensing requirements associated with the source code, software, scripts and datasets. The liceses provides a binding guideline for the use and distribution of such tools and resources and authorizes the end user by granting specific rights to use them without violating any copyrights laws and rules. 
+The external references **example** extension to additional license, provides a mechanism for adherence to licensing requirements associated with the source code, software, scripts and data. The licenses provide a binding guideline for the use and distribution of such resources and authorizes the end user by granting specific rights to use them without violating any copyrights laws and rules. 
 
-Depending on the license, certain licenses restrict the end user from modifying, copying, sharing and re-distributing the resource. The license extension plays an important role in dataset creation where a particular high impact dataset or a script has not been made public and has restrcitions on sharing, modifying and using for commercial use. Some license allow to use, share and modify datasets and scripts but require proper attribution in doing so.       
+Depending on the license, certain licenses allow end user to share, modify, copy and redistribute the data and scripts whereas some liceses completely restrict the end user from modifying, copying, sharing and re-distributing the scripts and data.  Some licenses allow to copy, share and modify datasets and scripts but require proper attribution in doing so. Thus, additional_license plays a vital role in dataset BCO creation     
 
 The `additional_license` extension is defined as an array of licenses applied to the data and the script. 
 
